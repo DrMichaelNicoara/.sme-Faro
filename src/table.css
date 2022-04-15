@@ -1,0 +1,16 @@
+  font-face {
+      font-family: myFirstFont;
+      src : url("SUPERSCR.TTF");
+  }
+
+
+  #circle {
+    background-image: url("logo.png");
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
